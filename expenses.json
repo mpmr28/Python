@@ -1,0 +1,1 @@
+{"expenses": [{"amount": 200.0, "category": "Clothing", "description": "Shirts", "date": "2024-11-01"}, {"amount": 200.0, "category": "cloth", "description": "shirt", "date": "2024-11-01"}], "budgets": {"250": 200.0, "cloth": 200.0}}
